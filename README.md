@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there ! 👋 I'm Ventus :D 
+
+### 👨🏻‍💻 &nbsp; About 
+
+- 🎓 &nbsp;Penultimate Year MEng Aeronautical Engineering Student in Imperial College London
+- 💡 &nbsp;Interested in new technologies & building cool stuffs!  👨‍💻
+- 🌱 &nbsp;Currently learning more about Data Science & Web Development 💻
+- 🎵 &nbsp;Also loves music and plays the double bass in orchestra 🎻 
+
+### 🤝🏻 &nbsp;More About Me
+💂Portfolio Under Development💂
 
 <!--
 **VentusTWY/VentusTWY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
