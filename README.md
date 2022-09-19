@@ -5,10 +5,26 @@
 - 🎓 &nbsp;Penultimate Year MEng Aeronautical Engineering Student in Imperial College London
 - 💡 &nbsp;Interested in new technologies & building cool stuffs!  👨‍💻
 - 🌱 &nbsp;Currently learning more about Data Science & Web Development 💻
-- 🎵 &nbsp;Also loves music and plays the double bass in orchestra 🎻 
+- 🎵 &nbsp;Loves music, plays piano casually and plays the double bass in orchestra 🎹 🎻 
 
 ### 🤝🏻 &nbsp;More About Me
-💂Portfolio Under Development💂
+💂[Portfolio Under Development](https://ventus-portfolio.netlify.app/)💂
+
+### 🛠 &nbsp;Tech Stacks
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://bestofjs.org/logos/chakra-ui.dark.svg" alt="Chakra UI Logo" width="50px" height="50px" />](https://chakra-ui.com/)&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50px" height="50px" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="NestJS logo" width="50px" height="50px" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Git logo" width="50px" height="50px" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB logo" width="50px" height="50px" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgres logo" width="50px" height="50px" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="50px" height="50px" />&nbsp;&nbsp;
+
 
 <!--
 **VentusTWY/VentusTWY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
