@@ -17,7 +17,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="NestJS logo" width="50px" height="50px" />&nbsp;&nbsp;
 [<img src="https://bestofjs.org/logos/chakra-ui.dark.svg" alt="Chakra UI Logo" width="50px" height="50px" />](https://chakra-ui.com/)&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50px" height="50px" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass logo" width="50px" height="50px" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++ logo" width="50px" height="50px" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Git logo" width="50px" height="50px" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB logo" width="50px" height="50px" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgres logo" width="50px" height="50px" />&nbsp;&nbsp;
