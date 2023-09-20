@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp; About 
 
-- 🎓 &nbsp;Penultimate Year MEng Aeronautical Engineering Student in Imperial College London
+- 🎓 &nbsp;Final Year MEng Aeronautical Engineering Student in Imperial College London
 - 💡 &nbsp;Interested in new technologies & building cool stuffs!  👨‍💻
-- 🌱 &nbsp;Currently learning more about Data Science & Web Development 💻
+- 🌱 &nbsp;Currently learning more about Web Development & System Design 💻
 - 🎵 &nbsp;Loves music, plays piano casually and plays the double bass in orchestra 🎹 🎻 
 
 ### 🛠 &nbsp;Tech Stacks
