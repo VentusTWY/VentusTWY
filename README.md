@@ -14,7 +14,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" width="50px" height="50px" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50px" height="50px" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50px" height="50px" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="NestJS logo" width="50px" height="50px" />&nbsp;&nbsp;
 [<img src="https://bestofjs.org/logos/chakra-ui.dark.svg" alt="Chakra UI Logo" width="50px" height="50px" />](https://chakra-ui.com/)&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50px" height="50px" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass logo" width="50px" height="50px" />&nbsp;&nbsp;
