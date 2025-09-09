@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp;Aeronautical Engineering Graduate from Imperial College London June 2024
 - 💡 &nbsp;Interested in new technologies & building cool stuffs to make lives easier!  👨‍💻
-- 🌱 &nbsp;Currently learning more about AI agents, tools & System Design 💻
+- 🌱 &nbsp;Currently learning more about AI agents, Crypto / Web3 Space & System Design 💻
 - 🎵 &nbsp;Loves music, plays piano casually and plays the double bass in orchestra 🎹 🎻 
 
 ### 🛠 &nbsp;Tech Stacks
