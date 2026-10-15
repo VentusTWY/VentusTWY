@@ -26,7 +26,7 @@
 
 
 ### 🤝🏻 &nbsp;More About Me
-[💂 Portfolio Under Development 💂](https://ventus-portfolio.netlify.app/)
+[💂 Portfolio 💂](https://ventustan.com)
 
 <!--
 **VentusTWY/VentusTWY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
